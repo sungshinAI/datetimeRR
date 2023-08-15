@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".AppointmentActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Appointment Date and Time"
+        android:textSize="18sp"
+        android:layout_marginBottom="16dp"/>
+
+    <DatePicker
+        android:id="@+id/datePicker"
+        android:layout_width="268dp"
+        android:layout_height="251dp" />
+
+    <TimePicker
+        android:id="@+id/timePicker"
+        android:layout_width="289dp"
+        android:layout_height="245dp" />
+
+    <Button
+        android:id="@+id/buttonCreateAppointment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Create Appointment"
+        android:layout_gravity="center"
+        android:layout_marginTop="16dp"/>
+
+</LinearLayout>

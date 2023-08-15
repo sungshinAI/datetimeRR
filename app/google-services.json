@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655925930617",
+    "project_id": "datetimerr-514cb",
+    "storage_bucket": "datetimerr-514cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655925930617:android:15f8d93e4d01b798d882a8",
+        "android_client_info": {
+          "package_name": "com.example.datetimerr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655925930617-3u6ndb2n8c7tsbqkettjf892m0pltasd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL6TFuf-7NKU86qpk2x8_0OoMEF-laom4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655925930617-3u6ndb2n8c7tsbqkettjf892m0pltasd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
